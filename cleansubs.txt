@@ -21,7 +21,6 @@ Abbotsbury
  Auburn 
  Austral 
  Avalon Beach
-
 Badgerys Creek 
  Balgowlah 
  Balgowlah Heights 
@@ -85,9 +84,7 @@ Badgerys Creek
  Box Hill 
  Bradbury 
  Breakfast Point 
- Brighton
-Le
-Sands 
+ Brighton LeSands 
  Bringelly 
  Bronte 
  Brooklyn 
@@ -97,8 +94,6 @@ Sands
  Burwood 
  Burwood Heights 
  Busby 
-
-
 Cabarita 
  Cabramatta 
  Cabramatta West 
@@ -182,7 +177,6 @@ Cabarita
  Curl Curl 
  Currans Hill 
  Currawong Beach
-
 Daceyville 
  Dangar Island 
  Darling Point 
@@ -208,7 +202,6 @@ Daceyville
  Dundas 
  Dundas Valley 
  Dural
-
 Eagle Vale 
  Earlwood 
  East Gordon 
@@ -243,7 +236,6 @@ Eagle Vale
  Erskineville 
  Eschol Park 
  Eveleigh
-
 Fairfield 
  Fairfield East 
  Fairfield Heights 
@@ -258,8 +250,7 @@ Fairfield
  Freemans Reach 
  Frenchs Forest 
  Freshwater
-
-Galston 
+Galston
  Georges Hall 
  Gilead 
  Girraween 
@@ -291,7 +282,6 @@ Galston
  Guildford West 
  Gymea 
  Gymea Bay
-
 Haberfield 
  Hammondville 
  Harrington Park 
@@ -322,15 +312,12 @@ Haberfield
  Hurlstone Park 
  Hurstville 
  Hurstville Grove
-
-Illawong 
+Illawong
  Ingleburn 
  Ingleside
-
 Jamisontown 
  Jannali 
  Jordan Springs
-
 Kangaroo Point 
  Kareela 
  Kearns 
@@ -354,14 +341,11 @@ Kangaroo Point
  Kirribilli 
  Kogarah 
  Kogarah Bay 
- Ku
-ring
-gai Chase 
+ Kuringai
  Kurnell 
  Kurraba Point 
  Kyeemagh 
  Kyle Bay
-
 La Perouse 
  Lakemba 
  Lalor Park 
@@ -397,7 +381,6 @@ La Perouse
  Luddenham 
  Lugarno 
  Lurnea
-
 Macquarie Fields 
  Macquarie Links 
  Macquarie Park 
@@ -446,14 +429,12 @@ Macquarie Fields
  Mount Annan 
  Mount Colah 
  Mount Druitt 
- Mount Kuring
-Gai 
+ Mount KuringGai 
  Mount Lewis 
  Mount Pritchard 
  Mount Vernon 
  Mulgoa 
  Mulgrave
-
 Narellan Vale 
  Naremburn 
  Narrabeen 
@@ -486,7 +467,6 @@ Narellan Vale
  Northbridge 
  Northmead 
  Northwood
-
 Oakhurst 
  Oakville 
  Oatlands 
@@ -499,7 +479,6 @@ Oakhurst
  Oxford Falls 
  Oxley Park 
  Oyster Bay
-
 Paddington 
  Padstow 
  Padstow Heights 
@@ -532,11 +511,9 @@ Paddington
  Putney 
  Pymble 
  Pyrmont
-
 Quakers Hill 
  Queens Park 
  Queenscliff
-
 Raby 
  Ramsgate 
  Ramsgate Beach 
@@ -572,7 +549,6 @@ Raby
  Russell Lea 
  Rydalmere 
  Ryde
-
 Sackville 
  Sackville North 
  Sadleir 
@@ -620,7 +596,6 @@ Sackville
  Sydney Olympic Park 
  Sylvania 
  Sylvania Waters
-
 Tamarama 
  Taren Point 
  Telopea 
@@ -634,15 +609,12 @@ Tamarama
  Tregear 
  Turramurra 
  Turrella
-
 Ultimo
-
 Varroville 
  Vaucluse 
  Villawood 
  Vineyard 
  Voyager Point
-
 Wahroonga 
  Waitara 
  Wakeley 
@@ -694,11 +666,9 @@ Wahroonga
  Woolwich 
  Woronora 
  Woronora Heights
-
 Yagoona 
  Yarramundi 
  Yarrawarrah 
  Yennora 
  Yowie Bay
-
 Zetland

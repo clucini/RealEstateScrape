@@ -54,9 +54,6 @@ def scrape(sub, beds):
             extras[i] = listing.find_all("dd")[i].text
         writer.writerow([link, address, price, price_num, extras[0], extras[1], extras[2], sub])
     return True
-    
-    
-
 
 def run(sub, beds):
     count = 1
@@ -71,7 +68,6 @@ def run(sub, beds):
         match = scrape(sub, beds)
         count += 1
         raw_html = get_data("https://www.realestate.com.au/rent/with-{0}-bedrooms-between-{1}-{2}-in-{3}/list-{4}?activeSort=price-asc&includeSurrounding=false".format(beds, minprice, maxprice, sub, count))
-
 
 def test():
     run(suburb, minbeds)

@@ -74,11 +74,15 @@ def run(sub, beds):
 def test():
     run(suburb, minbeds)
 
+#def multi():
+    #with open("subs.txt",'r') as f:
+        
+
+
 suburb = ""
 minbeds = "0"
 minprice = "0"
 maxprice = "0"
 
-with open("cleansubs.txt",'r') as f:
     
 
